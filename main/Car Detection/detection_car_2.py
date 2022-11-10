@@ -1,9 +1,7 @@
-# -*- coding: utf-8 -*-
 
 import cv2
-print('Project Topic : Vehicle Classification')
-print('Research Internship on Machine learning using Images')
-print('By Aditya Yogish Pai and Aditya Baliga B')
+print('Project : Vehicle and pedestrian detection')
+print('car classification')
 
 cascade_src = 'cars.xml'
 
