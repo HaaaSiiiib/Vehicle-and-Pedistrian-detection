@@ -15,12 +15,32 @@ Corresponding Research paper of the dataset: https://www.researchgate.net/public
 
 
 ## Method : 
+We used the Haar cascade classifier to classify the different vehicles. Our methods are
+listed below.
+
+But first, We divided the objects into six classes: Bus, Car, Two-wheelers, CNG, Rickshaw, and Pedestrian.
+
+
+
+### Step 1: Collection of Positive and Negative Image Set
+      *Description*
+      
+### Step 2: Training the Haar cascade Classifier on the negative and the positive dataset
+      *Description*
+      
+### Step 3: Generating the trained XML file.
+      *Description*
+
+### Step 4: 
+
+      *Description*
+### Step 5: Using the Bounding box to annotate the specified vehicle and pedestrian from the video.
+      *Description*
+
 
 
 
 ## Classifier : 
-
-
 
 
 ## Training : 
