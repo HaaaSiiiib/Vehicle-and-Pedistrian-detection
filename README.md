@@ -5,6 +5,11 @@ This application is able to detect and track vehicles and pedestrians on camera 
 
 ### Datasets : 
 
+Around 1000+ Bangladeshi local vehicle image datasets were used to train the cascade classifier.
+The dataset is available at: https://data.mendeley.com/datasets/pwyyg8zmk5/2
+Corresponding Research paper of the dataset: https://www.researchgate.net/publication/347763603_Poribohon-BD_Bangladeshi_local_vehicle_image_dataset_with_annotation_for_classification
+
+**Demo dataset is present in this repository**
 
 
 ### Method : 
